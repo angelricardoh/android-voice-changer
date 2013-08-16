@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/src/org/vinuxproject/sonic
+END
+AndroidAudioDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/src/org/vinuxproject/sonic/AndroidAudioDevice.java
+END
+wavIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/src/org/vinuxproject/sonic/wavIO.java
+END
+wavIOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/src/org/vinuxproject/sonic/wavIOTest.java
+END
+ZipUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/src/org/vinuxproject/sonic/ZipUtility.java
+END
+Sonic.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/src/org/vinuxproject/sonic/Sonic.java
+END
+SonicPitchChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/src/org/vinuxproject/sonic/SonicPitchChanger.java
+END

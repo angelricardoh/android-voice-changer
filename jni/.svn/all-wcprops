@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/jni
+END
+sonic.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/jni/sonic.h
+END
+sonicjni.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/jni/sonicjni.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/jni/Android.mk
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/jni/Application.mk
+END
+sonic.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/jni/sonic.c
+END
+sonicjni.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tvnichos-metrobus-backend/!svn/ver/661/trunk/codigo/android/com.mobiik.android/jni/sonicjni.c
+END
