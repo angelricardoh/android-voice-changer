@@ -1,8 +1,7 @@
 package com.tvnichos.denuncias.botonpanico.activity;
 
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Example of how to use ExtAudioRecorder with an Event Handler
  */
 
 import android.media.AudioFormat;
@@ -97,7 +96,7 @@ public class WorkerVoiceRecorderThread extends Thread{
 
 		try {
 
-			mLog.info("Voice recorder thread - Inicia configuraci—n");
+			mLog.info("Voice recorder thread - Inicia configuraciâ€”n");
 			extAudioRecorder = ExtAudioRecorder.getInstanse(false); // Uncompressed recording (WAV)
 			mLog.info("Creating instance");
 			if (extAudioRecorder == null)
@@ -125,7 +124,7 @@ public class WorkerVoiceRecorderThread extends Thread{
 				return;
 			}
 
-			mLog.info("Voice recorder thread - Termina configuraci—n");
+			mLog.info("Voice recorder thread - Termina configuraciâ€”n");
 
 			mLog.info("Voice recorder thread - Inicia timer");
 			extAudioRecorder.start();
